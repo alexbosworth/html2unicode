@@ -1,4 +1,4 @@
-const Saxophone = require('saxophone');
+const Saxophone = require('@alexbosworth/saxophone');
 
 /**
  * Turns an html string into an unicode string.

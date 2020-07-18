@@ -7,11 +7,11 @@
     "Ophir LOJKINE"
   ],
   "dependencies": {
-    "saxophone": "0.6.1"
+    "@alexbosworth/saxophone": "0.6.2"
   },
   "description": "Convert HTML to unicode strings.",
   "devDependencies": {
-    "jsdoc-to-markdown": "5.0.3"
+    "jsdoc-to-markdown": "6.0.1"
   },
   "keywords": [
     "html",
